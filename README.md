@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我该写啥？？
 
 <!--
 **histion/histion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![)AF2NJ)$Q`@($IV7W@_CHTX](https://user-images.githubusercontent.com/65994410/189517111-b4cb236f-aa82-4b3a-acbc-a3391b5a4c36.png)
