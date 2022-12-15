@@ -1,7 +1,9 @@
 
-## Intro  
+## 关于histion
+
 ### <div align="center">瞎抄，瞎改，瞎折腾🧲</div>  
   
+
 
 - 🇨🇳中国人  
   
@@ -14,6 +16,12 @@
 
 <br/>  
 
+----
+## Visitor Counter  
+
+<img src="https://count.getloli.com/get/@histion?theme=gelbooru" alt=":histion" />
+
+<br />
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -58,7 +66,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=histion&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=histion&show_icons=true&locale=cn&bg_color=105,87CEFA,9370DB,EE82EE,e96443&title_color=FFFF00&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br/>  
 
@@ -69,11 +77,6 @@
   
 
 <br/>  
-
-
-## Visitor Counter  
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">2022.12.15修改</div>
