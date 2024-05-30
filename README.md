@@ -22,7 +22,8 @@
 ----
 ## Visitor Counter  
 
-<img src="https://count.getloli.com/get/@histion?theme=gelbooru" alt=":histion" />
+![1717036124000](https://github.com/histion/histion/assets/65994410/395d53c9-d9be-4731-89a2-7ee3da841cfe)
+
 
 <br />
 
