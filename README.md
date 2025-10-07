@@ -20,9 +20,7 @@
 <br/>  
 
 ----
-## Visitor Counter  
 
-![1717036305240](https://github.com/histion/histion/assets/65994410/eb188793-9423-483c-8d8e-d0557c6ca54a)
 
 
 
